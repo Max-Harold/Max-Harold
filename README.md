@@ -12,4 +12,4 @@ where players identify and ban hackers.
     - The game engine Godot was used to make the game
 - [**MandelbrotZoom**](https://github.com/Max-Harold/MandelbrotZoom) - A GUI that can zoom into the Mandelbrot Fractal
     - Java and the Swing framework were used for this project
-- [**Racket Chess**](https://github.com/Charles-Dea/racket-chess) - A chess game written in Racket programming language
+- [**Racket Chess**](https://github.com/Charles-Dea/racket-chess) - A chess game written in the Racket programming language
